@@ -1,8 +1,17 @@
 develop notion: make book review/ rating about books itself.
 
 # step1: observation
-## situation analysis(clarify business requirements and constrains )
+## situation analysis(business research, clarify business requirements and constrains)
+[]Decide on the type of book reviews to feature (e.g. brief notes or longreads, text or audio podcasts) and who will write the reviews (e.g. professional critics or ordinary users).
+[] choose a niche, such as a specific genre of books, to stand out among competitors
+[]read resources below
+[how to find niche](https://www.websitebuilderexpert.com/building-websites/how-to-find-your-niche/)
 
+[HubSpot](https://blog.hubspot.com/marketing/market-research-tools-resources): HubSpot has a list of 19 tools and resources for conducting market research, including tools for gathering data on consumer behavior and trends.
+
+[Stanford Graduate School of Business](https://www.gsb.stanford.edu/library/research-resources): The Stanford Graduate School of Business has a library of research resources that can help you with your business research, including access to business databases and datasets.
+
+[U.S. Small Business Administration](https://www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis): The U.S. Small Business Administration has a guide on conducting market research and competitive analysis, including information on how to gather data on your target market and competition.
 ### competitors
 |Website|Feature|
 |---|---|
@@ -24,7 +33,7 @@ research method:
 - content(can be linked for compilation book)
 - author(name and id)
 - ISBN(can be OCR-able/scan to find the book)
-- categoryy
+- category
 - metadata(font, paper type, version)
 ### Library classification research for taxonomist
 
@@ -37,11 +46,15 @@ Make book review about book iteself
 - data storage innovation
 - category seriousness with taxonomy/ ontology
 - business model
-
+## Monetization
+[]Decide how to make money, including advertising, affiliate marketing, or subscriptions.
 ## conclusion
 ### tech strategy
 
 ### site strategy
 
-
 # step5: develop card and list
+[] design
+
+# step6: test and launch
+
